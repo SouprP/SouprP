@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+<a href="#"><img src="https://komarev.com/ghpvc/?username=souprp&label=Profile%20views&color=0e75b6&style=flat"></a>
 
 ### I'm a self-taught programmer who is eager to learn new things!
 
@@ -62,5 +64,3 @@
  <p align="center">
   <img src="https://user-images.githubusercontent.com/67385974/155893433-f99b8eea-954f-4d3a-a0d3-0472ebe93a86.gif" width="80%" />
 </p>
-
-<a href="#"><img src="https://komarev.com/ghpvc/?username=souprp&label=Profile%20views&color=0e75b6&style=flat"></a>
