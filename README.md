@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on making my costomers happy
 - 🌱 I’m currently learning C++, MySQL / SQL and MongdoDB
 - 👯 I’m looking to collaborate on C++, Java and Unity projects
-- 📫 How to reach me: potyrala.igor@gmail.com , **wielga i boteszna polsga#1873**
 
 ### Here are some of the projects I'm currently working on!
 
