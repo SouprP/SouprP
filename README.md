@@ -10,7 +10,6 @@
 
 ### Here are some of the projects I'm currently working on!
 
-- Home CCTV System **( C++, Arduino, Java )**
 - Banker Reworked **( Java, PHP )**
 - Admin Tools **( Java, MongoDB )**
 - CanSat **( C++, Arduino, C# )**
