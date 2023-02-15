@@ -10,10 +10,10 @@
 
 ### Here are some of the projects I'm currently working on!
 
-- Banker Reworked **( Java, PHP )**
-- Admin Tools **( Java, MongoDB )**
+- Banker Reworked **( Java, MySQL )**
+- GameAPI **( Java, MySQL )**
+- Admin Core **( Java, MySQL )**
 - CanSat **( C++, Arduino, C# )**
-- pymath **( Python )**
 
 &nbsp;
 &nbsp;
