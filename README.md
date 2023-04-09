@@ -1,19 +1,12 @@
 ### Hi there 👋 
 
 <a href="#"><img src="https://komarev.com/ghpvc/?username=souprp&label=Profile%20views&color=0e75b6&style=flat"></a>
-
-### I'm a self-taught programmer who is eager to learn new things!
-
-- 🔭 I’m currently working on making my costomers happy
-- 🌱 I’m currently learning C++, MySQL / SQL and MongdoDB
-- 👯 I’m looking to collaborate on C++, Java and Unity projects
-
 ### Here are some of the projects I'm currently working on!
 
 - Banker Reworked **( Java, MySQL )**
 - GameAPI **( Java, MySQL )**
-- Admin Core **( Java, MySQL )**
-- CanSat **( C++, Arduino, C# )**
+- AdminCore **( Java, MySQL )**
+- Oscilloscope **(Java, OpenGL)**
 
 &nbsp;
 &nbsp;
