@@ -4,9 +4,8 @@
 ### Here are some of the projects I'm currently working on!
 
 - Banker Reworked **( Java, MySQL )**
-- GameAPI **( Java, MySQL )**
-- AdminCore **( Java, MySQL )**
-- Oscilloscope **(Java, OpenGL)**
+- GameAPI **( Java )**
+- Oscilloscope **( Java, OpenGL )**
 
 &nbsp;
 &nbsp;
