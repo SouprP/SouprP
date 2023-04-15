@@ -1,6 +1,7 @@
 ### Hi there 👋 
+I'm a student at Wrocław University of Science and Technology majoring in IT Automation Systems, but I am mostly self-taught. Currently, I'm focused on several projects and learning new frameworks and tools in order to become better and better!
+<!--<a href="#"><img src="https://komarev.com/ghpvc/?username=souprp&label=Profile%20views&color=0e75b6&style=flat"></a>-->
 
-<a href="#"><img src="https://komarev.com/ghpvc/?username=souprp&label=Profile%20views&color=0e75b6&style=flat"></a>
 ### Here are some of the projects I'm currently working on!
 
 - Website Backend **( Java, MySQL )**
