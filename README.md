@@ -42,9 +42,6 @@ My Portfolio: https://souprp.github.io/Portfolio/
 <a href="https://www.python.org" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a> 
 
-<a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-
 <a href="https://www.mysql.com/downloads/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="github" width="40" height="40"/></a>
 
