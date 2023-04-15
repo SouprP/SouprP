@@ -3,8 +3,8 @@
 <a href="#"><img src="https://komarev.com/ghpvc/?username=souprp&label=Profile%20views&color=0e75b6&style=flat"></a>
 ### Here are some of the projects I'm currently working on!
 
-- Banker Reworked **( Java, MySQL )**
-- GameAPI **( Java )**
+- Website Backend **( Java, MySQL )**
+- GameAPI **( Java, SpigotAPI )**
 - Oscilloscope **( Java, OpenGL )**
 
 &nbsp;
