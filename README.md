@@ -4,8 +4,8 @@ I'm a student at Wrocław University of Science and Technology majoring in IT Au
 
 ### Here are some of the projects I'm currently working on!
 
-- Website Backend **( Java, MySQL )**
-- GameAPI **( Java, SpigotAPI )**
+- Portfolio-Blog **(React, .NET)**
+- SoupAPI **( Java, SpigotAPI )**
 - Oscilloscope **( Java, OpenGL )**
 
 &nbsp;
