@@ -52,5 +52,6 @@ My Portfolio: https://souprp.github.io/Portfolio/
 &nbsp;
  
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/67385974/155893433-f99b8eea-954f-4d3a-a0d3-0472ebe93a86.gif" width="80%" />
+  <!-- <img src="https://user-images.githubusercontent.com/67385974/155893433-f99b8eea-954f-4d3a-a0d3-0472ebe93a86.gif" width="80%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouprP&layout=compact&langs_count=8" width="400" height="300" />
 </p>
