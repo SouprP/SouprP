@@ -4,9 +4,9 @@ I'm a student at Wrocław University of Science and Technology majoring in IT Au
 
 ### Here are some of the projects I'm currently working on!
 
-- Portfolio-Blog **(React, Node.js, .NET)**
+- Portfolio-Blog **(React, Node.js)**
 - SoupAPI **( Java, SpigotAPI )**
-- Courses Web **(React, Node.js, Typescript, .NET)**
+- eFunkcja **(React, Node.js, Typescript, .NET)**
 <!-- - Oscilloscope **( Java, OpenGL )** -->
 
 &nbsp;
