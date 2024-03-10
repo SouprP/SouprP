@@ -1,18 +1,7 @@
 ### Hi there 👋 
-I'm a student at Wrocław University of Science and Technology majoring in IT Automation Systems, but I am mostly self-taught. Currently, I'm focused on several projects and learning new frameworks and tools in order to become better and better!
+I'm a student at Wrocław University of Science and Technology majoring in IT Automation Systems, but I am mostly self-taught. Currently, I'm focused on learning new frameworks, tools and how to design hardware in order to become better and better!
 <!--<a href="#"><img src="https://komarev.com/ghpvc/?username=souprp&label=Profile%20views&color=0e75b6&style=flat"></a>-->
 
-### Here are some of the projects I'm currently working on!
-
-- Portfolio-Blog **(React, Node.js)**
-- SoupAPI **( Java, SpigotAPI )**
-- eFunkcja **(React, Node.js, Typescript, .NET)**
-<!-- - Oscilloscope **( Java, OpenGL )** -->
-
-&nbsp;
-&nbsp;
-
-My Portfolio: https://souprp.github.io/Portfolio/
 
 ## 🚀 Languages and Tools:
 
