@@ -9,7 +9,7 @@ I'm a 3rd year student at Wrocław University of Science and Technology majoring
  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="github" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="github" width="40" height="40"/>
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="github" width="40" height="40"/>
  
@@ -37,6 +37,8 @@ I'm a 3rd year student at Wrocław University of Science and Technology majoring
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="github" width="40" height="40"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="github" width="40" height="40"/>
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="github" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="github" width="40" height="40"/>
